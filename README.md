@@ -6,7 +6,8 @@ A complete, end-to-end data warehousing and analytics solution designed to conso
 
 The project processes data through three distinct architectural layers to ensure quality and performance:
 
-<img width="1178" height="716" alt="Data Architecture Diagram" src="https://github.com/user-attachments/assets/9f39648c-3a7f-4bfd-b556-112df25431b4" />
+<img width="1263" height="748" alt="Project Arechitecture (Mendallion_" src="https://github.com/user-attachments/assets/1419735f-a7e4-4039-99a3-96597d3d016b" />
+
 
 1. **🟫 Bronze Layer (Raw):** Ingests raw CSV source files directly into SQL Server without modifications.
 2. **⬜ Silver Layer (Cleaned):** Handles data cleansing, deduplication, formatting, and structural normalization.
